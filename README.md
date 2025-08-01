@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm working on projects in blockchain, AI, and cybersecurity. Some of the exciting areas I'm building in include Zero-Knowledge Proofs (like zkSync, StarkNet, Polygon zkEVM), smart wallets (ERC-4337), Decentralized Physical Infrastructure Networks (DePIN), and tokenizing real-world assets like real estate and bonds.
+I'm working on projects in blockchain, AI, and cybersecurity. Some of the exciting areas I'm building include Zero-Knowledge Proofs (like zkSync, StarkNet, Polygon zkEVM), smart wallets (ERC-4337), Decentralized Physical Infrastructure Networks (DePIN), and tokenizing real-world assets like real estate and bonds.
 
 I'm also exploring decentralized AI – where AI models run on blockchain and give users more control over their data.
 
@@ -12,7 +12,7 @@ I'm passionate about creating systems that are open, secure, and owned by users.
 
 I love football, chess and have a great interest in philosphy.
 
-Here to learn and grow ...passionate about tech but surely there's a life outside it too... Connect and we can explore together 
+Here to learn and grow ...passionate about tech but surely there's a life outside it too... 
 
 
 <!--
