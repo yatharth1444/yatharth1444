@@ -1,5 +1,5 @@
 ## Hi there 👋
-## About-me
+
 I'm working on projects in blockchain, AI, and cybersecurity. Some of the exciting areas I'm building in include Zero-Knowledge Proofs (like zkSync, StarkNet, Polygon zkEVM), smart wallets (ERC-4337), Decentralized Physical Infrastructure Networks (DePIN), and tokenizing real-world assets like real estate and bonds.
 
 I'm also exploring decentralized AI – where AI models run on blockchain and give users more control over their data.
