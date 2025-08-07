@@ -12,7 +12,7 @@ I'm passionate about creating systems that are open, secure, and owned by users.
 
 I love football, chess and have a great interest in philosphy.
 
-Here to learn and grow ...passionate about tech but surely there's a life outside it too... 
+Here to learn and grow ...passionate about tech. 
 
 
 <!--
